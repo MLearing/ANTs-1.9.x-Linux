@@ -5,4 +5,4 @@ nipype调用N4BiasFieldCorrection函数时需要安装ANTs的库文件，nipype�
 最简单的方法就是直接放到/usr/bin/文件夹下面便可使用，因为系统环境变量已经在环境变量中
 
 ## 源码编译安装
-参考：http://hometown.group/category/projects/3d-u-net/
+参考：
